@@ -4,6 +4,14 @@ Python으로 컴퓨터 비전 모델을 학습하고 결과를 분석해 왔습�
 
 연락처: sudongbomi@gmail.com
 
+## Education
+
+- 전주대학교 인공지능학과 졸업  
+  2021.03 – 2025.02
+
+- 전주대학교 일반대학원 Agro AI학과 학·석사 연계과정 졸업  
+  2025.03 – 2026.08
+
 ## 주요 프로젝트
 
 ### [마스크 시퀀스 분석을 이용한 육계 폐사체 후보 탐지](https://github.com/jeongrubin/broiler-carcass-candidate-detection)
