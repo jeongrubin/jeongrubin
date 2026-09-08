@@ -36,7 +36,7 @@ YOLOv8-Seg, Fast-SCNN, Mask R-CNN을 학습해 화재 영역 분할 성능과 �
 
 학교 비교과 프로그램을 검색하는 Streamlit 앱입니다. TF-IDF 로컬 검색을 기본으로 사용하며, Gemini API가 설정된 경우 검색 결과를 바탕으로 답변을 생성합니다.
 
-[배포된 챗봇 실행하기](https://jeongrubin-jju-chatbot.streamlit.app/)
+[배포된 챗봇 실행하기](https://jeongrubin-chatbot-demo.streamlit.app/)
 
 ### [차선 손상 분류와 추가 세그멘테이션 실험](https://github.com/jeongrubin/-Lane-damage-classification)
 
