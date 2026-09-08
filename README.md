@@ -2,7 +2,7 @@
 
 Python으로 컴퓨터 비전 모델을 학습하고 결과를 분석해 왔습니다. 객체 탐지와 세그멘테이션, 시계열 영상 분석에 관심이 있습니다.
 
-CONTECT: sudongbomi@gmail.com
+CONTACT: sudongbomi@gmail.com
 
 
 ## Education
