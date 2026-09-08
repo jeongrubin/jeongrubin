@@ -39,12 +39,12 @@ YOLOv8-Seg, Fast-SCNN, Mask R-CNN을 학습해 화재 영역 분할 성능과 �
 
 [배포된 챗봇 실행하기](https://jeongrubin-chatbot-demo.streamlit.app/)
 
-### [차선 손상 분류와 추가 세그멘테이션 실험](https://github.com/jeongrubin/-Lane-damage-classification)
+### [차선 훼손 분류와 추가 세그멘테이션 실험](https://github.com/jeongrubin/-Lane-damage-classification)
 
-차선 손상 등급 분류 & 픽셀 단위 세그멘테이션 모델  : 2024.03–2024.07  
+차선 훼손 등급 분류 & 픽셀 단위 세그멘테이션 모델  : 2024.03–2024.07  
 
 
-차량 카메라 이미지로 차선의 손상 등급을 분류했습니다. 2024년 4월에 손상 영역을 폴리곤으로 라벨링해뒀는데, 다른 서버에 있어 한동안 활용하지 못하다가 2026년에 다시 확보해 U-Net 세그멘테이션 모델을 학습했습니다.
+차량 카메라 이미지로 차선의 손상 등급을 분류했습니다. 훼손 영역을 폴리곤으로 라벨링하여 U-Net 세그멘테이션 모델을 학습했습니다.
 
 ## 사용 기술
 
