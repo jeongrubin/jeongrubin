@@ -1,6 +1,9 @@
 
 
-컴퓨터 비전(Computer Vision) 쪽으로 깊게 파고 싶은 엔지니어입니다. 연구로 가설을 검증하고, 그걸 실제로 동작하는 코드로 만들어서 성과를 확인하는 과정 자체를 즐깁니다.
+Computer Vision과 Deep Learning을 공부하고 있습니다. 논문이나 아이디어를 직접 구현해보고, 실험 결과를 비교하면서 이해하는 것을 좋아합니다.
+주로 Object Detection, Image Classification, 3D Vision 등에 관심이 있습니다.
+
+이 저장소에는 공부하면서 구현한 프로젝트와 실험들을 정리하고 있습니다.
 
 📫 **Contact**: sudongbomi@gmail.com
 
